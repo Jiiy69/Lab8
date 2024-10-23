@@ -1,2 +1,2 @@
 # Lab8
- 
+ My choice of PokeAPI over other APIs, is due to the fact that it has a lot of fantastic content and information on Pokemon, which is interesting as well as popular. PokeAPI has well-written documentation so users can easily get different insights about a Pokemon character including: their physical outlines, powers and also locations. A franchise such as Pokemon is a perfect soul as well in bringing out important aspects of data that appeal to one and make it fun to learn while still providing an ample use case for practicing how APIs can be integrated and how data can be exposed. In addition to PokeAPI being readily available, there is no cost and one does not need any authorization – making it very basic for teaching people how to work with APIs.
